@@ -1,2 +1,0 @@
-# devfinances
-Aplicação de finanças
